@@ -1,0 +1,294 @@
+root:Host-associated:Human:Reproductive system:Vagina
+root:Engineered:Food production:Fermented beverages
+root:Host-associated:Plants:Root
+root:Host-associated:Human:Digestive system:Large intestine:Fecal
+root:Host-associated:Human:Skin
+root:Environmental:Terrestrial:Soil
+root:Engineered:Biogas plant
+root:Host-associated:Human:Respiratory system:Nasopharyngeal
+root:Environmental:Aquatic:Freshwater:Lake
+root:Environmental:Aquatic:Freshwater:Ice:Glacial lake
+root:Engineered:Wastewater
+root:Engineered:Lab enrichment:Defined media
+root:Environmental:Aquatic:Thermal springs
+root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+root:Environmental:Aquatic:Freshwater
+root:Environmental:Terrestrial:Soil:Forest soil
+root:Environmental:Aquatic:Marine
+root:Host-associated:Mammals:Digestive system
+root:Mixed
+root:Environmental:Aquatic:Freshwater:Groundwater
+root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+root:Engineered:Wastewater:Industrial wastewater
+root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+root:Environmental:Aquatic:Marine:Sediment
+root:Environmental:Aquatic:Marine:Oceanic
+root:Host-associated:Plants:Rhizosphere
+root:Environmental:Aquatic:Freshwater:Pond:Sediment
+root:Environmental:Aquatic:Freshwater:Sediment
+root:Host-associated:Mammals:Digestive system:Foregut
+root:Environmental:Aquatic:Marine:Marginal Sea
+root:Host-associated:Insecta
+root:Host-associated:Plants:Rhizosphere:Soil
+root:Host-associated:Arthropoda:Digestive system:Hindgut
+root:Engineered:Wastewater:Water and sludge
+root:Host-associated:Fungi
+root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+root:Host-associated:Human:Digestive system:Intestine
+root:Engineered:Modeled:Simulated communities (microbial mixture)
+root:Engineered:Bioreactor:Continuous culture:Marine intertidal flat sediment inoculum:Wadden Sea-Germany
+root:Host-associated:Mammals:Digestive system:Midgut
+root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+root:Environmental:Aquatic:Freshwater:Lotic:Low land river systems
+root:Engineered:Lab enrichment:Defined media:Anaerobic media
+root:Host-associated:Mammals:Gastrointestinal tract:Intestine:Fecal
+root:Engineered:Lab enrichment:Defined media:Marine media
+root:Host-associated:Arthropoda:Digestive system:Oral 
+root:Environmental:Terrestrial:Soil:Sand:Oil-contaminated
+root:Host-associated:Mammals
+root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+root:Host-associated:Human:Digestive system:Oral:Saliva
+root:Host-associated:Human:Digestive system:Oral
+root:Host-associated:Human:Digestive system:Large intestine
+root:Host-associated:Mammals:Digestive system:Fecal
+root:Host-associated:Plants
+root:Engineered:Wastewater:Nutrient removal:Biological phosphorus removal:Activated sludge
+root:Engineered:Food production:Dairy products
+root:Host-associated:Mammals:Digestive system:Foregut:Rumen
+root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+root:Environmental:Aquatic:Marine:Coastal:Sediment
+root:Engineered:Bioreactor:Continuous culture
+root:Environmental:Aquatic:Estuary:Sediment
+root:Host-associated:Mammals:Digestive system:Stomach:Rumen
+root:Host-associated:Arthropoda:Digestive system:Gut
+root:Host-associated:Invertebrates:Cnidaria:Coral
+root:Engineered:Wastewater:Activated Sludge
+root:Host-associated:Mammals:Digestive system:Large intestine
+root:Engineered:Built environment
+root:Engineered:Lab enrichment
+root:Engineered:Food production:Fermented seafood
+root:Host-associated:Fish:Digestive system
+root:Host-associated:Plants:Rhizoplane:Soil
+root:Environmental:Aquatic:Marine:Coastal
+root:Environmental:Aquatic:Freshwater:Ice:Glacier
+root:Environmental:Terrestrial:Volcanic
+root:Host-associated:Birds:Digestive system
+root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+root:Host-associated:Arthropoda:Digestive system:Oral:Saliva
+root:Host-associated:Human:Digestive system:Oral:Subgingival plaque
+root:Environmental:Terrestrial:Soil:Grasslands
+root:Environmental:Terrestrial:Deep subsurface
+root:Host-associated:Plants:Rhizosphere:Forest soil
+root:Host-associated:Plants:Phylloplane
+root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+root:Engineered
+root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+root:Environmental:Terrestrial:Geologic
+root:Host-associated:Birds:Digestive system:Ceca
+root:Host-associated:Birds:Digestive system:Fecal
+root:Host-associated:Mammals:Gastrointestinal tract
+root:Environmental:Terrestrial:Soil:Contaminated
+root:Host-associated:Fish:Digestive system:Intestine
+root:Environmental:Aquatic:Marine:Oceanic:Sediment
+root:Environmental:Terrestrial:Soil:Permafrost
+root:Host-associated:Mammals:Gastrointestinal tract:Intestine
+root:Host-associated:Annelida:Digestive system
+root:Host-associated:Mammals:Skin
+root:Host-associated:Plants:Rhizoplane:Endophytes
+root:Engineered:Lab Synthesis
+root:Host-associated:Human:Digestive system:Oral:tongue dorsum
+root:Host-associated:Human:Digestive system:Oral:Throat
+root:Host-associated:Human:Respiratory system:Pulmonary system:Sputum
+root:Environmental:Terrestrial:Soil:Agricultural
+root:Host-associated:Mammals:Digestive system:Oral cavity:Buccal mucosa
+root:Host-associated:Fish
+root:Host-associated:Animal
+root:Environmental:Aquatic:Sediment
+root:Environmental:Aquatic
+root:Environmental:Aquatic:Lentic:Brackish
+root:Engineered:Biotransformation
+root:Host-associated:Human:Respiratory system
+root:Environmental:Aquatic:Freshwater:Lentic
+root:Engineered:Bioreactor
+root:Environmental:Aquatic:Marine:Oceanic:Aphotic zone
+root:Environmental:Aquatic:Marine:Pelagic
+root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Salt crystallizer pond
+root:Host-associated:Reptile:Oral cavity
+root:Host-associated:Human:Respiratory system:Nasopharyngeal:Nasal cavity
+root:Environmental:Aquatic:Marine:Hydrothermal vents:Microbial mats
+root:Host-associated:Human:Circulatory system
+root:Host-associated:Mammals:Respiratory system
+root:Environmental:Terrestrial:Soil:Clay
+root:Engineered:Bioreactor:Continuous culture:Marine sediment inoculum:Wadden Sea-Germany
+root:Environmental:Aquatic:Marine:Oceanic:Photic zone
+root:Environmental:Aquatic:Marine:Hydrothermal vents
+root:Environmental:Aquatic:Marine:Hydrothermal vents:Black smokers
+root:Host-associated:Mammals:Digestive system:Large intestine:Cecum
+root:Environmental:Terrestrial:Soil:Loam:Forest soil
+root:Host-associated:Insecta:Digestive system
+root:Environmental:Terrestrial:Soil:Tropical rainforest
+root:Host-associated:Human:Reproductive system:Female
+root:Host-associated:Birds
+root:Engineered:Food production:Fermented vegetables
+root:Engineered:Solid waste:Composting:Wood
+root:Host-associated:Human:Reproductive system:Vagina:posterior fornix
+root:Host-associated:Plants:Phylloplane:Endophytes
+root:Host-associated:Human:Respiratory system:Nasopharyngeal:Pharynx
+root:Host-associated:Mollusca
+root:Engineered:Modeled:Simulated communities (sequence read mixture)
+root:Host-associated:Human:Skin:Naris
+root:Engineered:Bioremediation:Terephthalate:Wastewater
+root:Engineered:Food production
+root:Engineered:Solid waste:Composting
+root:Host-associated:Microbial:Bacteria
+root:Environmental:Aquatic:Freshwater:Lotic
+root:Host-associated:Algae
+root:Engineered:Solid waste:Landfill
+root:Environmental:Aquatic:Estuary
+root:Host-associated:Algae:Red algae
+root:Environmental:Aquatic:Freshwater:Pond
+root:Engineered:Biogas plant:Wet fermentation
+root:Environmental:Aquatic:Marine:Intertidal zone:Oil-contaminated
+root:Environmental:Aquatic:Thermal springs:Sediment
+root:Host-associated:Human:Respiratory system:Pulmonary system:Lung
+root:Engineered:Industrial production
+root:Host-associated:Porifera
+root:Environmental:Aquatic:Marine:Wetlands:Sediment
+root:Host-associated:Fish:Skin
+root:Environmental:Aquatic:Aquaculture
+root:Environmental:Terrestrial:Soil:Uranium contaminated
+root:Host-associated:Arthropoda
+root:Environmental:Aquatic:Marine:Intertidal zone
+root:Environmental:Aquatic:Marine:Intertidal zone:Mangrove swamp
+root:Environmental:Aquatic:Freshwater:Wetlands:Sediment
+root:Environmental:Terrestrial:Soil:Wetlands
+root:Environmental:Aquatic:Freshwater:Wetlands:Marsh
+root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+root:Host-associated:Protists
+root:Engineered:Bioreactor:Continuous culture:Marine sediment inoculum
+root:Environmental:Aquatic:Marine:Neritic zone
+root:Host-associated:Reptile
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+root:Environmental:Aquatic:Marine:Intertidal zone:Sediment
+root:Environmental:Aquatic:Marine:Oceanic:Abyssal plane
+root:Engineered:Solid waste
+root:Engineered:Wastewater:Industrial wastewater:Agricultural wastewater
+root:Environmental:Aquatic:Marine:Oceanic:Benthic
+root:Environmental:Aquatic:Marine:Wetlands
+root:Environmental:Aquatic:Freshwater:Storm water
+root:Environmental:Aquatic:Freshwater:Groundwater:Contaminated
+root:Environmental:Terrestrial:Soil:Mine
+root:Host-associated:Invertebrates:Echinodermata
+root:Environmental:Aquatic:Marine:Cold seeps
+root:Environmental:Aquatic:Freshwater:Groundwater:Acid Mine Drainage
+root:Environmental:Aquatic:Marine:Neritic zone:Sediment
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline:Sediment
+root:Engineered:Bioremediation
+root:Host-associated:Arthropoda:Respiratory system:Gills
+root:Environmental:Aquatic:Marine:Hydrothermal vents:Diffuse flow
+root:Environmental:Aquatic:Marine:Volcanic
+root:Environmental:Aquatic:Marine:Oil seeps
+root:Environmental:Aquatic:Marine:Cold seeps:Sediment
+root:Environmental:Terrestrial:Soil:Loam:Agricultural
+root:Environmental:Terrestrial:Soil:Desert
+root:Host-associated:Mammals:Digestive system:Stomach
+root:Environmental:Air
+root:Host-associated:Animal:Digestive system
+root:Host-associated:Animal:Digestive system:Fecal
+root:Environmental:Aquatic:Freshwater:Groundwater:Mine drainage
+root:Engineered:Solid waste:Composting:Bioreactor
+root:Environmental:Aquatic:Marine:Brackish
+root:Environmental:Aquatic:Freshwater:Lotic:Acidic
+root:Environmental:Aquatic:Marine:Hydrothermal vents:Sediment
+root:Engineered:Lab Synthesis:Genetic cross
+root:Environmental:Aquatic:Thermal springs:Near-boiling (>90C):Alkaline
+root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated sediments
+root:Host-associated:Algae:Brown Algae
+root:Host-associated:Cnidaria
+root:Engineered:Wastewater:Industrial wastewater:Mine water
+root:Engineered:Bioremediation:Persistent organic pollutants (POP)
+root:Environmental:Terrestrial:Oil reservoir
+root:Host-associated:Fish:Digestive system:Foregut
+root:Host-associated:Mollusca:Digestive system
+root:Host-associated:Human:Digestive system:Oral:Supragingival plaque
+root:Engineered:Modeled
+root:Environmental:Aquatic:Freshwater:Ice
+root:Host-associated:Human:Circulatory system:Blood
+root:Environmental
+root:Host-associated:Invertebrates:Cnidaria
+root:Environmental:Terrestrial:Soil:Loam
+root:Environmental:Terrestrial:Soil:Crop
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Saline
+root:Environmental:Aquatic:Thermal springs:Hot (42-90C):Sediment
+root:Engineered:Bioremediation:Hydrocarbon
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Microbial mats
+root:Environmental:Aquatic:Thermal springs:Near-boiling (>90C)
+root:Environmental:Terrestrial:Soil:Loam:Contaminated
+root:Host-associated:Human:Lympathic system:Lymph nodes
+root:Host-associated:Human:Digestive system:Oral:Periodontal pockets
+root:Environmental:Terrestrial:Soil:Oil-contaminated
+root:Host-associated:Human:Digestive system:Oral:buccal mucosa
+root:Environmental:Aquatic:Freshwater:Drinking water
+root:Environmental:Aquatic:Freshwater:Wetlands:Swamp
+root:Environmental:Aquatic:Marine:Intertidal zone:Microbialites
+root:Host-associated:Human:Excretory system:Urethra:Urine
+root:Environmental:Aquatic:Freshwater:Groundwater:Cave water
+root:Host-associated:Mammals:Respiratory system:Nasopharyngeal
+root:Host-associated:Mammals:Respiratory system:Pulmonary system
+root:Host-associated:Birds:Respiratory system
+root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+root:Host-associated:Amphibia
+root:Host-associated:Microbial
+root:Host-associated:Mammals:Milk
+root:Engineered:Bioreactor:Continuous culture:Marine intertidal flat sediment inoculum
+root:Engineered:Wastewater:Nutrient removal:Dissolved organics (anaerobic)
+root:Engineered:Biotransformation:Mixed alcohol bioreactor
+root:Host-associated:Human:Respiratory system:Pulmonary system
+root:Engineered:Solid waste:Solid animal waste
+root:Engineered:Wastewater:Nutrient removal:Biological phosphorus removal:Bioreactor
+root:Environmental:Aquatic:Lentic
+root:Host-associated:Mammals:Excretory system
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Saline:Microbial mats
+root:Engineered:Wastewater:Nutrient removal:Dissolved organics (aerobic)
+root:Environmental:Aquatic:Freshwater:Wetlands
+root:Engineered:Modeled:Simulated communities (DNA mixture)
+root:Environmental:Terrestrial:Soil:Sand
+root:Environmental:Terrestrial:Rock-dwelling (subaerial biofilm)
+root:Engineered:Biotransformation:Microbial enhanced oil recovery
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Sediment
+root:Host-associated:Mollusca:Digestive system:Glands
+root:Environmental:Aquatic:Non-marine Saline and Alkaline
+root:Host-associated:Human:Milk
+root:Environmental:Terrestrial:Soil:Clay:Oil-contaminated
+root:Engineered:Wastewater:Industrial wastewater:Petrochemical
+root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline
+root:Engineered:Food production:Silage fermentation
+root:Environmental:Aquatic:Freshwater:Wetlands:Bog
+root:Host-associated:Birds:Digestive system:Digestive tube
+root:Host-associated:Plants:Rhizosphere:Epiphytes
+root:Host-associated:Plants:Rhizome
+root:Environmental:Terrestrial:Soil:Crop:Agricultural land
+root:Engineered:Solid waste:Composting:Grass
+root:Host-associated:Invertebrates
+root:Environmental:Terrestrial:Soil:Boreal forest
+root:Environmental:Terrestrial:Soil:Mine drainage
+root:Environmental:Terrestrial:Agricultural field
+root:Environmental:Terrestrial:Soil:Silt
+root:Environmental:Terrestrial:Soil:Sand:Desert
+root:Engineered:Bioremediation:Terephthalate:Wastewater:Bioreactor
+root:Host-associated:Human:Digestive system:Hindgut:Rectum
+root:Host-associated:Protozoa
+root:Engineered:Wastewater:Nutrient removal:Nitrogen removal
+root:Engineered:Bioremediation:Hydrocarbon:Benzene:Bioreactor
+root:Host-associated:Annelida
+root:Environmental:Terrestrial:Soil:Wetlands:Permafrost
+root:Host-associated:Mammals:Nervous system:Brain
+root:Host-associated:Mammals:Circulatory system:Blood
+root:Host-associated:Spiralia
+root:Control
+root:Environmental:Aquatic:Marine:Oil field:bore hole
+root:Host-associated:Human
+root:Host-associated:Human:Digestive system
+root:Host-associated
+root

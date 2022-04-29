@@ -1,0 +1,9 @@
+name: biome_scores
+channels:
+   - conda-forge
+   - bioconda
+   - defaults
+dependencies:
+   - snakemake-minimal=7.3.8
+   - pandas=1.4.2
+   - jsonapi-client=0.9.9 

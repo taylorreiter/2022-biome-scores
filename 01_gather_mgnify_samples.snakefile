@@ -1,6 +1,6 @@
 import pandas as pd
 
-m = pd.read_csv("mgnify_sample_biomes/mgx_mgnify.tsv", sep = "\t", header = 0)
+m = pd.read_csv("outputs/mgnify_sample_biomes/mgx_mgnify_missing_sigs_rm.tsv", sep = "\t", header = 0)
 SRA_RUN = m['run'].unique().tolist()
 
 rule all:
